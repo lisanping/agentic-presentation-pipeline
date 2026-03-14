@@ -1,2 +1,3 @@
-# agentic_presentation_pipeline
+# Agentic Presentation Pipeline
+
 Agentic Presentation Pipeline
